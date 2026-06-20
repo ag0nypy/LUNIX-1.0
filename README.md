@@ -3,7 +3,8 @@
 **Lunix** é uma prova de conceito (PoC) de um terminal interativo escrito em Python utilizando a biblioteca `pygame`. Ele emula um ambiente de sistema operacional minimalista, permitindo a execução de comandos, manipulação de arquivos, edição de texto e mini-jogos. 💻
 
 ## 📸 Preview
-![Screenshot do Lunix 1.0](https://ibb.co/WWzqsN2T)
+[![Screenshot do Lunix 1.0](https://i.postimg.cc/022fX5DC/Captura-de-tela-2026-06-20-011907.png)](https://postimg.cc/G9VGHCMB)
+
 
 ## 🐧 O que é isso?
 Este projeto foi desenvolvido como um exercício de arquitetura de sistemas e manipulação de interfaces CLI. Ele simula um ciclo de inicialização (*boot sequence*) completo e oferece um shell funcional com persistência de arquivos. ⚡
